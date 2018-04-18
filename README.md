@@ -1,8 +1,8 @@
 # pprofile
-I remember my first day in NSS it was a dream to be here. but I am here Million miles from that day. I had a good, hard unforgotable time on the bootcamp. Today i am able to read, write and understand many languages of the computer world. when I come first here I thought I
-know some but here today when I see my self I still see many miles to run through to arrive my destination.I am glad to be with the UNICORN, everyday there is a new topic, group project, fun, or some new cakes.oh i forget there was a new star wars also.
-This is my first profile webpage I do for the good memories i had in NSS. I love you all NSS.
-We learned had a Daily hands on application of development fundamentals and principles through group and individual projects reflecting real world business problems
+I remember my first day in NSS, it was a dream come true . Now I am here million miles way from the first day. I had a good, hard, unforgotable time on the bootcamp. Today i am able to read, write, understand and use many programming languages. When I came to NSS, I thought I
+had known some but after I have learned a lot , I came to a realization that I have a long way to learn and grow. I have been enjoying being part of the UNICORN, dealing with  new topic every day, participating in group projects, having fun, over all the deliciouse  cakes.Oh i forget 'the New Star War" which was a real war!
+This is my first profile webpage for the good memories in NSS. I love you all NSS.
+We have learned  fundamental principles of development web application through group and individual projects reflecting real world business problems.
 Source code version control with Git/GitHub
 Project management/tracking with Github Projects & Issue Tracking
 JavaScript fundamentals leveraging DRY, modular, readable code and reusable components 
